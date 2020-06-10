@@ -1,0 +1,22 @@
+1. What would you improve about our Nojoto App as Product & Why?
+Ans: Improve the filter,  give feature like having rainfall for sad momemnt,,Background change to attract the user.
+     Let the user to select the music by their ownself to use or cut and create.
+
+
+
+2. There is a data point that indicates that there are more Ola drop-offs at the Railway Station than pick-ups from the Railway Station. 
+    Why this is the case and what would you do within the product to change that?
+Ans: Travellers prefer ola as mode of transportation while going to railway station but prefer other modes of transport while leaving railway station.
+    Probable reason:     
+ 	Prices are indeed higher for his journey from sation to home then from his journey from home to station. (Most Likely)
+	Customer doesn't value ola value proposition which is comfort and quick journey. (Maybe)
+	Customer has other alternative modes of transportation which weren't available when he booked ola to railway station. (Least Likely)
+
+3. How would you prioritize resources when you have two important things to do but can’t do them both?
+ans:   Each task has a priority. However, each team determines priority a bit differently. Some factors that impact priority include:
+
+	Urgency
+	Value
+	Cost
+	Timing
+	Return on Investment (ROI)
